@@ -1,6 +1,6 @@
 # MyExcelClone
 
-MyExcelClone is a clone of Excel which is made using javascript, HTML and CSS
+MyExcelClone is a clone of Excel which is made by using javascript, HTML and CSS
 
 - It contains features for sheet properties, multiple sheets handling and CRUD.
 - Uses graph algorithm for cycle detection.
